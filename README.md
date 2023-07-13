@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh121546" alt="yogesh121546" /></a> </p>
 -->
 <br>
-<br>
+
 - 🏫 I’m currently a Third-Year undergrad at **Indian Institute of Information Technology, Surat**
 
 - 🌱 I’m currently learning **Machine learning, Python**
