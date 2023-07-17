@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogesh Kumawat</h1>
+<h1 id="hello" align="center">Hi 👋, I'm Yogesh Kumawat</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 <!--
@@ -30,7 +30,11 @@
 -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh121546&show_icons=true&locale=en" alt="yogesh121546" /></p>
-
+<script>
+  setInterval(()=>{
+    document.getElementById("hello").style.display=none;
+  },5000)
+</script>
 <!--
 **yogesh121546/yogesh121546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
