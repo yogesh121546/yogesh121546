@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Python**
 
-- 💬 Ask me about **MEN🧔‍♂️ Stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **yogeshkumawats291@gmail.com**
   
