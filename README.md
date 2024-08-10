@@ -6,7 +6,7 @@
 -->
 <br>
 
-- 🏫 I’m currently a Third-Year undergrad at **Indian Institute of Information Technology, Surat**
+- 🏫 I’m currently a Final-Year undergrad at **Indian Institute of Information Technology, Surat**
 
 - 🌱 I’m currently learning **Machine learning, Python**
 
